@@ -1,5 +1,4 @@
 # Hello there! 👋
-
 I'm a passionate software developer with a strong interest in high-level backend programming and object-oriented design. Currently exploring the world of microcontrollers and full-stack development. I enjoy solving real-world problems through code and building projects that automate, simplify, or just make things a bit more fun!
 
 ---
@@ -30,11 +29,17 @@ A simple desktop app developed in C that allows users to convert between units o
 
 ---
 
+### 🧪 Python - testDeployPy
+A Python-based demo project showcasing how to set up Continuous Integration and Continuous Deployment (CI/CD) with GitHub Actions. Includes automated testing and deployment pipelines to ensure code quality and streamlined delivery.  
+**Tech/Skills:** Python, GitHub Actions, CI/CD, Testing Automation
+
+---
+
 ## 🛠️ Skills & Technologies
 
 **Languages:** Python, Java, C, C++, JavaScript  
-**Tools:** Arduino, Git  
-**Specialties:** Backend Development, Object-Oriented Programming, Microcontroller Projects
+**Tools:** Arduino, Git, GitHub Actions  
+**Specialties:** Backend Development, Object-Oriented Programming, Microcontroller Projects, Automation
 
 ---
 
@@ -42,7 +47,7 @@ A simple desktop app developed in C that allows users to convert between units o
 
 Feel free to connect or reach out:
 
-- 📧 Email: pronobispawe@gmail.com
+- 📧 Email: pronobispawe@gmail.com  
 - 💼 LinkedIn: Paweł Pronobis
 
 Thanks for stopping by – don't hesitate to ask me anything or check out my projects!
