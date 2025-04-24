@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello, I'm Pawel 👋
+I'm a software enthusiast and a Computer Science student at the University Of Silesia with a focus on web development and automation. I love building impactful projects and exploring new technologies to create efficient solutions.
 
-<!--
-**pawelproit/pawelproit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 My Work
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Technologies
+Languages: Python, Java, Kotlin, JavaScript(Basics), Arduino(Basics), C(Basics), C++(Basics) 
+Web Development: HTML, CSS
+🎓 Certificates
+
+📫 Get in Touch
+LinkedIn: Paweł Pronobis
+Email: pronobispawe@gmail.com
+Feel free to look around and ask any questions!
