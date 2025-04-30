@@ -28,7 +28,7 @@ Demo project demonstrating CI/CD setup with GitHub Actions. Features automated t
 
 ## 🛠️ Skills & Technologies
 
-**Languages:** Python, Java, C, C++, JavaScript  
+**Languages:** Python, Java, Kotlin, C, JavaScript  
 **Tools:** Arduino, Git, GitHub Actions  
 **Focus Areas:** Backend Development, Object-Oriented Programming, Microcontroller Projects, Automation
 
